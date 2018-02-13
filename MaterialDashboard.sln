@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialDashboard", "MaterialDashboard\MaterialDashboard.csproj", "{6553E9F1-4767-438C-B7FA-0248BE8371F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6553E9F1-4767-438C-B7FA-0248BE8371F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6553E9F1-4767-438C-B7FA-0248BE8371F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6553E9F1-4767-438C-B7FA-0248BE8371F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6553E9F1-4767-438C-B7FA-0248BE8371F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {382F76B4-29F7-45F4-83F3-C6B9E9F0B6CD}
+	EndGlobalSection
+EndGlobal
